@@ -1,0 +1,9 @@
+body {
+    background-color: #261610;  /* Change background color */
+    color: #eeeedd;                /* Change text color */
+    font-family: Arial, sans-serif;  /* Choose font family */
+    margin: 20px; 
+}
+h1, h2 {
+    text-transform: uppercase; /* Converts text to uppercase */
+}
